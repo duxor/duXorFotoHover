@@ -10,6 +10,6 @@ Klasa za foto efekat.
 > Dušan Perišić
 > [dusanperisic.com](http://dusanperisic.com) 
 
-# [Demo](http://dusanperisic.com) 
+# [Demo](http://pomeranac.dusanperisic.com) 
 
 > Demo se može pogledati u galeriji fotografija na prelaz miša.
